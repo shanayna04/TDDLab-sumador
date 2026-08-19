@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Shanayna De Ugarte",
+    "commit": {
+      "date": "2026-08-19T22:36:56.000Z",
+      "message": "feat: agrega funcionalidad de multiplicar",
+      "url": "https://github.com/shanayna04/TDDLab-sumador/commit/HEAD"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 15,
+      "deletions": 0,
+      "date": "2026-08-19"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
